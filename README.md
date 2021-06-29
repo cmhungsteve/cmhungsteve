@@ -5,6 +5,8 @@ My name is **Min-Hung (Steve) Chen** (**陳敏弘** in Chinese). I am a **Senior
 My research interest is mainly on **Learning without Fully Supervision**, including continual learning, self-/semi-supervised learning, federated learning, etc.
 In addition, I have also conducted researches on domain adaptation, transfer learning, action segmentation, action recognition, video understanding, and temporal dynamics understanding.
 
+[[Personal Website](https://minhungchen.netlify.app/)][[LinkedIn](https://www.linkedin.com/in/chensteven/)][[Twitter](https://twitter.com/CMHungSteven)][[Google Scholar](https://scholar.google.com/citations?user=ovzuxi8AAAAJ)][[Resume](https://minhungchen.netlify.app/files/cv.pdf)]
+
 <!--
 **cmhungsteve/cmhungsteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
