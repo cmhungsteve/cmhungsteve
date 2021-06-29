@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is **Min-Hung (Steve) Chen** (**陳敏弘** in Chinese). I am a **Senior AI Engineer** at [MediaTek Inc](https://www.mediatek.com/innovations/artificial-intelligence), working on **Deep Learning for Edge-AI**. I received my Ph.D. degree from Georgia Tech, advised by [Prof. Ghassan AlRegib](https://ghassanalregib.info/) and in collaboration with [Prof. Zsolt Kira](https://www.cc.gatech.edu/~zk15/).
+
+My research interest is mainly on **Learning without Fully Supervision**, including continual learning, self-/semi-supervised learning, federated learning, etc.
+In addition, I have also conducted researches on domain adaptation, transfer learning, action segmentation, action recognition, video understanding, and temporal dynamics understanding.
+
 <!--
 **cmhungsteve/cmhungsteve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
