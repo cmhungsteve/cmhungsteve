@@ -4,7 +4,7 @@ My name is **Min-Hung (Steve) Chen** (**陳敏弘** in Chinese). I am a **Resear
 
 My research interest is mainly on **Learning without Fully Supervision**, including domain adaptation, continual learning, self-/semi-supervised learning, etc. In addition, I have also conducted researches on [transformer, attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention), transfer learning, action segmentation, action recognition, video understanding, and temporal dynamics understanding.
 
-**[Update]** I released a comprehensive [paper list for **Vision Transformer & Attention**](https://github.com/cmhungsteve/Awesome-Transformer-Attention) to facilitate related research. Feel free to check it (I would be appreciative if you can STAR it)!
+**[Update]** I released a comprehensive [paper list for **Vision Transformer & Attention**](https://github.com/cmhungsteve/Awesome-Transformer-Attention) to facilitate related research. Feel free to check it (I would be appreciative if you can **★STAR** it)!
 
 [[Personal Website](https://minhungchen.netlify.app/)][[LinkedIn](https://www.linkedin.com/in/chensteven/)][[Twitter](https://twitter.com/CMHungSteven)][[Google Scholar](https://scholar.google.com/citations?user=ovzuxi8AAAAJ)][[Resume](https://minhungchen.netlify.app/files/cv.pdf)]
 
